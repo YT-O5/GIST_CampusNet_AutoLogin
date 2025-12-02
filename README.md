@@ -1,0 +1,2 @@
+# GIST_CampusNet_AutoLogin
+广州理工学院校园网自动登录脚本
