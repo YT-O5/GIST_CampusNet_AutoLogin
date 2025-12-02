@@ -15,14 +15,14 @@
 📁 二、文件清单（就像工具箱里的工具）
 
 把这些文件想象成厨房里的厨具：
-文件   作用   相当于厨具
-CampusNet.bat   主开关   - 你双击的这个文件 微波炉（按一下就能热饭）
-FirstTimeSetup.bat   首次设置   - 第一次用时要运行 菜谱（教你怎么做菜）
-CampusNet_Login.ps1   大脑   - 真正干活的程序 大厨（真正做饭的人）
-CampusNet_Silent.ps1   隐形助手   - 开机自动登录用 小工（帮你默默干活）
-CreateDesktopShortcut.ps1   创建快捷方式   - 在桌面放个快捷方式 电话快捷拨号（方便找到）
-CampusNet_Config.json   密码本   - 存你的账号密码（自动生成） 密码锁（存你的秘密）
-CampusNet_Log.txt   日记本   - 记录每次登录情况（自动生成） 日记本（记下每天的事）
+文件	作用	相当于厨具
+CampusNet.bat	主开关 - 你双击的这个文件	微波炉（按一下就能热饭）
+FirstTimeSetup.bat	首次设置 - 第一次用时要运行	菜谱（教你怎么做菜）
+CampusNet_Login.ps1	大脑 - 真正干活的程序	大厨（真正做饭的人）
+CampusNet_Silent.ps1	隐形助手 - 开机自动登录用	小工（帮你默默干活）
+CreateDesktopShortcut.ps1	创建快捷方式 - 在桌面放个快捷方式	电话快捷拨号（方便找到）
+CampusNet_Config.json	密码本 - 存你的账号密码（自动生成）	密码锁（存你的秘密）
+CampusNet_Log.txt	日记本 - 记录每次登录情况（自动生成）	日记本（记下每天的事）
 
 💡 小猴理解小贴士：你只需要关心前两个文件（.bat文件），其他的让电脑自己管理。
 ---
